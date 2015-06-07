@@ -15,7 +15,7 @@ git clone https://github.com/Stevearzh/hexo-theme-yamt.git themes/yamt
 Execute the following command to update Light.
 
 ```
-cd themes/material-light
+cd themes/yamt
 git pull
 ```
 
