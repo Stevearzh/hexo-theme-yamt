@@ -12,7 +12,7 @@ git clone https://github.com/Stevearzh/hexo-theme-yamt.git themes/yamt
 
 ## Update
 
-Execute the following command to update Light.
+Execute the following command to update YAMT.
 
 ```
 cd themes/yamt
