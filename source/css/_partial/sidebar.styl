@@ -41,14 +41,33 @@
         color color-font
 
   .tag
+  	background color-purple
+  	box-shadow shadow-purple
+  	.title
+  	  color #fff
+  	  border-bottom 1px solid border-purple
+  	a
+  	  color #fff
     small
       margin-left 15px
-      color color-meta
+      color border-light-purple
       &:before
         content '('
       &:after
         content ')'
 
+  .recent-blog
+    background color-yellow
+    box-shadow shadow-yellow
+    .title
+      color #fff
+      border-bottom 1px solid border-yellow
+    a
+      color #fff
+    li
+      border-bottom none
+      padding 0
+  
   .twitter
     li
       border-bottom 1px solid color-border
@@ -63,8 +82,14 @@
       line-height 1
 
   .tagcloud
+  	background color-green
+  	box-shadow shadow-green
+  	.title
+  	  color #fff
+  	  border-bottom 1px solid border-green
     .entry
       padding-right 5px
     a
+      color #fff
       margin-right 10px
       display inline-block
