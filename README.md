@@ -19,6 +19,14 @@ cd themes/yamt
 git pull
 ```
 
+## Gallery
+
+The theme kind like below:
+
+![](http://img.vim-cn.com/d0/5dbdfe543eaa2131350b365e6c7beeac07ae80.jpg)
+
+
 [Hexo]: http://zespia.tw/hexo/
 [Light]: https://github.com/hexojs/hexo-theme-light
 [Material]: https://github.com/Daemonite/material
+

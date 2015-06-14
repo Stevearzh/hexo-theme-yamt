@@ -3,10 +3,10 @@ menu:
   所有博客: /archives
 
 widgets:
-- category
 - tag
 - tagcloud
 - recent_posts
+- about_me
 
 excerpt_link: Read More
 
@@ -35,3 +35,12 @@ facebook:
   comment_count: 5
   comment_width: 840
   comment_colorscheme: light
+  
+about_me:
+  Mail: "#"
+  Github: "#"
+  Linkedin: "#"
+  Zhihu: "#"
+  Twitter: "#"
+  Google+: "#"
+  Weibo: "#"

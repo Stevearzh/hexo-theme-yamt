@@ -1,0 +1,10 @@
+<% if (theme.about_me) { %>
+	<div class="widget about-me">
+		<h3 class="title"><%= __('about_me') %></h3>
+		<ul class="entry">
+			<% for (var i in theme.about_me) { %>
+				<li><a class="<%= i %>" target="_blank" href="<%- url_for(theme.about_me[i]) %>" title="<%= i %>"><%= i %></a></li>
+			<% } %>
+		</ul>
+	</div>
+<% } %>
